@@ -11,5 +11,8 @@
         "url": "https://github.com/kavin256/RememberTiles.git"
     },
     "author": "Kavin Ranawella",
-    "license": "ISC"
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^4.13.1"
+    }
 }
