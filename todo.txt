@@ -1,0 +1,4 @@
+1. allow non square numbers >> use matrix system to draw ( i and j separately)
+2. add event listener for mouse.click
+3. color change when clicked
+4. 
